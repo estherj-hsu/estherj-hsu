@@ -1,4 +1,4 @@
-### Esther Hsu (aka EJ) 👋
+### EstherJ (aka EJ) 👋
 
 Eat 🍽 • Travel 🗺 • Love ♥️ • Coffee ☕️ • Movie 🎥 • Book 📚
 
