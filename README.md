@@ -1,3 +1,3 @@
 ### EstherJ (aka EJ) 👋
 
-This is Esther from Taiwan 🇹🇼, a Front-End Developer…
+Esther from Taiwan 🇹🇼, now based in Vancouver and learning UX Design…
