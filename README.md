@@ -1,5 +1,9 @@
 ### EstherJ (aka EJ) 👋
 
-Esther from Taiwan 🇹🇼, a self-taught web designer and developer, and based in Vancouver now. I had just finished my study in UX Design and am seeking an opportunity that fits my background and skill.
+I’m Esther, a front-end developer based in Vancouver 🇨🇦, originally from Taiwan 🇹🇼.
 
-Creative front-end developer with 7+ years of experience in designing and developing web-based, object-oriented, and user-centred products for diverse technology companies. Proven ability in optimizing user interfaces that improve user experience, and bring value and clarity to end-users.
+I build user-centred, accessible web interfaces ♿✨, with a background in UX design and a long relationship with CSS 🎨, layout systems, and interaction details. My early years were deeply rooted in UI and styling, which shaped how I think about structure, behaviour, and visual intent before jumping into heavier application logic 🧠.
+
+These days, my work focuses on clean, semantic front-end code 🧩, predictable interactions ⌨️, and accessibility that holds up in real products, not just guidelines 📐. I work across custom WordPress builds (ACF, Twig, Gutenberg) 🧱 and React components ⚛️, translating design intent into interfaces that feel clear, reliable, and inclusive 🤝.
+
+I’ve contributed to projects for museums 🏛️, libraries 📚, NGOs 🌱, and public institutions across Canada, and I care a lot about the quiet details that make interfaces usable for real humans 🫶.
