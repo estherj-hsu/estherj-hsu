@@ -1,4 +1,4 @@
-### EstherJ (aka EJ) 👋
+### Esther 👋
 
 I’m Esther, a front-end developer based in Vancouver 🇨🇦, originally from Taiwan 🇹🇼.
 
